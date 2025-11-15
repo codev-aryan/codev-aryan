@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently honing my skills in Competitive Programming & DSA.<br><br>💻 I also enjoy building full-stack web applications.<br><br>🌱 I’m currently exploring Generative AI with Python.<br><br>👯 I’m looking to collaborate on C++ based projects or interesting web apps.<br><br>💬 Ask me about C++, Data Structures, Algorithms, and problem-solving.<br><br>⚡ Fun fact: I can deadlift 130 kg.
+🔭 I’m currently honing my skills in Competitive Programming & DSA.<br><br>💻 I also enjoy building full-stack web applications.<br><br>🌱 I’m currently exploring Generative AI with Python.<br><br>👯 I’m looking to collaborate on C++ based projects or interesting web apps.<br><br>💬 Ask me about C++, Data Structures, Algorithms, and problem-solving.<br><br>⚡ Fun fact: I can deadlift 150 kg.
 
 
 ## 🌐 Socials:
