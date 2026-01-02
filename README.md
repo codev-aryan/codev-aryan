@@ -2,15 +2,15 @@
 
 🎓 Computer Science undergraduate at Jaypee Institute of Information Technology, Noida.
 
-💻 Competitive programmer specializing in Data Structures & Algorithms with a 5-star rating on HackerRank in C++.
+💻 Competitive programmer specializing in Data Structures & Algorithms.
 
 🌱 Currently honing my skills in Competitive Programming & DSA.
 
 👯 Looking to collaborate on C++ projects and algorithmic challenges.
 
-💬 Ask me about C++, Data Structures, Algorithms, and performance optimization.
+💬 Ask me about C++, DSA, CP and Linux.
 
-⚡ Fun fact: I can deadlift 150 kg.
+⚡ Fun fact: I can deadlift 150 kg (2.5x).
 
 ## 💻 Tech Stack
 **Languages:**  
@@ -28,7 +28,4 @@ Data Structures & Algorithms • Object-Oriented Programming • Multithreading 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codev-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codev-aryan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=codev-aryan&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=codev-aryan&theme=radical&margin-w=10)
