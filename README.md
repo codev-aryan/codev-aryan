@@ -23,6 +23,7 @@
 - 🗄️ Databases: Solid understanding of relational database management and SQL querying
 - 🐧 Daily driver: **Arch Linux** (btw) + Ubuntu + Windows 11
 - 📬 Reach me at `codev.aryan@gmail.com`
+- ⚡ Physical Benchmarks: $2.5\times$ BW Deadlift, $1.7\times$ BW Squat, $1.25\times$ BW Bench.
 
 ---
 
