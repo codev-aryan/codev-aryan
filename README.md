@@ -18,13 +18,15 @@
 - 🎓 Second-year CS student at **Jaypee Institute of Information Technology, Noida**
 - ⚔️ Competitive Programmer — **Codeforces Pupil**, **CodeChef 2★**, **HackerRank 5★**
 - 🧠 DSA & Problem Solving: 500+ problems solved across **LeetCode** and **CodingNinjas**
-- 🏆 Wins: 2x 1st Place CodeClash Champion ('25 and '26) | 3rd Place OSDHack'25
-- 🔧 I like building things from scratch — Redis clones, Git engines, SQL parsers in C++
+- 🏆 Wins: 2× 1st Place — CodeClash ('25, '26) | 3rd Place — OSDHack '25
+- 🔧 Interested in systems — exploring Redis-like servers, Git internals, and database engines in C++
 - 🤖 AI/ML & Data: Practical experience with machine learning workflows and data analytics
 - 🗄️ Databases: Solid understanding of relational database management and SQL querying
 - 🐧 Daily driver: **Arch Linux** (btw) + Ubuntu + Windows 11
 - 📬 Reach me at `codev.aryan@gmail.com`
-- ⚡ Fun Fact: i have $2.5\times$ BW Deadlift (conventional).
+- ⚡ Fun Facts:
+  - ~110 WPM typing speed (Monkeytype)
+  - $2.5\times$ BW Deadlift (conventional)
 
 ---
 
