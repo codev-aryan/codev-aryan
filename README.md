@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/codev-aryan"><img src="https://img.shields.io/badge/Codeforces-Pupil-blue?logo=codeforces"/></a>
-  <a href="https://www.codechef.com/users/codev_aryan"><img src="https://img.shields.io/badge/CodeChef-2★-brown?logo=codechef"/></a>
+  <a href="https://www.codechef.com/users/codev_aryan"><img src="https://img.shields.io/badge/CodeChef-3★-brown?logo=codechef"/></a>
   <a href="https://www.hackerrank.com/profile/codev_aryan"><img src="https://img.shields.io/badge/HackerRank-5★-brightgreen?logo=hackerrank"/></a>
   <a href="https://codev-aryan.xyz"><img src="https://img.shields.io/badge/Portfolio-codev--aryan.xyz-black?logo=vercel"/></a>
 </p>
@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Second-year CS student at **Jaypee Institute of Information Technology, Noida**
-- ⚔️ Competitive Programmer — **Codeforces Pupil**, **CodeChef 2★**, **HackerRank 5★**
+- ⚔️ Competitive Programmer — **Codeforces Pupil**, **CodeChef 3★**, **HackerRank 5★**
 - 🧠 DSA & Problem Solving: 500+ problems solved across **LeetCode** and **CodingNinjas**
 - 🏆 Wins: 2× 1st Place — CodeClash ('25, '26) | 3rd Place — OSDHack '25
 - 🔧 Interested in systems — exploring Redis-like servers, Git internals, and database engines in C++
