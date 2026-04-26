@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aryan Mehta 👋</h1>
 
 <p align="center">
-  <b>CS Undergrad @ JIIT Noida &nbsp;|&nbsp; S  ystems Programmer &nbsp;|&nbsp; Competitive Coder</b>
+  <b>CS Undergrad @ JIIT Noida &nbsp;|&nbsp; Systems Programmer &nbsp;|&nbsp; Competitive Coder</b>
 </p>
 
 <p align="center">
