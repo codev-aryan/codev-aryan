@@ -25,7 +25,7 @@
 - 🐧 Daily driver: **Arch Linux** (btw) + Ubuntu + Windows 11
 - 📬 Reach me at `codev.aryan@gmail.com`
 - ⚡ Fun Facts:
-  - ~110 WPM typing speed (Monkeytype)
+  - ~114 WPM typing speed (Monkeytype)
   - $2.5\times$ BW Deadlift (conventional)
 
 ---
