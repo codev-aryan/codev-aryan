@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aryan Mehta 👋</h1>
 
 <p align="center">
-  <b>CS Undergrad @ JIIT Noida &nbsp;|&nbsp; Systems Programmer &nbsp;|&nbsp; Competitive Coder</b>
+  <b>CS Undergrad @ JIIT Noida &nbsp;|&nbsp; S  ystems Programmer &nbsp;|&nbsp; Competitive Coder</b>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 - 🧠 DSA & Problem Solving: 500+ problems solved across **LeetCode** and **CodingNinjas**
 - 🏆 Wins: 2× 1st Place — CodeClash ('25, '26) | 3rd Place — OSDHack '25
 - 🔧 Interested in systems — exploring Redis-like servers, Git internals, and database engines in C++
-- 🤖 AI/ML & Data: Practical experience with machine learning workflows and data analytics
+- 🤖 AI/ML & Data Analytics: Familiar with classical ML pipelines, data cleaning, and model evaluation.
 - 🗄️ Databases: Solid understanding of relational database management and SQL querying
 - 🐧 Daily driver: **Arch Linux** (btw) + Ubuntu + Windows 11
 - 📬 Reach me at `codev.aryan@gmail.com`
