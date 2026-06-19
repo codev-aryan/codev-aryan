@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Second-year CS student at **Jaypee Institute of Information Technology, Noida**
+- 🎓 Third-year CS student at **Jaypee Institute of Information Technology, Noida**
 - ⚔️ Competitive Programmer — **Codeforces Pupil**, **CodeChef 3★**, **HackerRank 5★**
 - 🧠 DSA & Problem Solving: 500+ problems solved across **LeetCode** and **CodingNinjas**
 - 🏆 Wins: 2nd Place — CodeClash 26.1 | 2× 1st Place — CodeClash ('25, '26) | 3rd Place — OSDHack '25
