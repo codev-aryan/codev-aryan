@@ -18,7 +18,7 @@
 - 🎓 Second-year CS student at **Jaypee Institute of Information Technology, Noida**
 - ⚔️ Competitive Programmer — **Codeforces Pupil**, **CodeChef 3★**, **HackerRank 5★**
 - 🧠 DSA & Problem Solving: 500+ problems solved across **LeetCode** and **CodingNinjas**
-- 🏆 Wins: 2× 1st Place — CodeClash ('25, '26) | 3rd Place — OSDHack '25
+- 🏆 Wins: 2nd Place — CodeClash 26.1 | 2× 1st Place — CodeClash ('25, '26) | 3rd Place — OSDHack '25
 - 🔧 Interested in systems — exploring Redis-like servers, Git internals, and database engines in C++
 - 🤖 AI/ML & Data Analytics: Familiar with classical ML pipelines, data cleaning, and model evaluation.
 - 🗄️ Databases: Solid understanding of relational database management and SQL querying
@@ -26,7 +26,7 @@
 - 📬 Reach me at `codev.aryan@gmail.com`
 - ⚡ Fun Facts:
   - ~125 WPM typing speed (Monkeytype)
-  - $2.5\times$ BW Deadlift (conventional)
+  - 2.5x BW Deadlift (conventional)
 
 ---
 
