@@ -22,7 +22,7 @@
 - 🔧 Interested in systems — exploring Redis-like servers, Git internals, and database engines in C++
 - 🤖 AI/ML & Data Analytics: Familiar with classical ML pipelines, data cleaning, and model evaluation.
 - 🗄️ Databases: Solid understanding of relational database management and SQL querying
-- 🐧 Daily driver: **Arch Linux** (btw) + Ubuntu + Windows 11
+- 🐧 Daily driver: **Arch Linux** (btw) + Windows 11 + Wsl(Ubuntu)
 - 📬 Reach me at `codev.aryan@gmail.com`
 - ⚡ Fun Facts:
   - ~125 WPM typing speed (Monkeytype)
